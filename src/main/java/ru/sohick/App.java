@@ -1,4 +1,4 @@
-package ru.SOHick;
+package ru.sohick;
 
 /**
  * Hello world!
